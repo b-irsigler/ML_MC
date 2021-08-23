@@ -1,2 +1,2 @@
 # ML_MC
- Apply imcomplete MC data to machine learning
+ Apply incomplete MC data to machine learning
